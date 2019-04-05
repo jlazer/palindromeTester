@@ -34,7 +34,7 @@ public class Main {
             strippedInput = strippedInput.replaceAll("\\W", "");
             strippedInput = strippedInput.replaceAll("\\d", "");
             // Print the strippedInput
-            System.out.println("Test input: " + strippedInput);
+            System.out.println("Stripped input: " + strippedInput);
 
             int length = strippedInput.length();
             // Reverse the strippedInput Variable and store it in the reverseInput variable
