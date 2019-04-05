@@ -24,7 +24,7 @@ public class Main {
         // Place user input into the userInput variable
         userInput = input.nextLine();
 
-        userInput.toLowerCase().re;
+        //userInput.toLowerCase().re;
         System.out.println("Input: " + userInput);
 
         int length = userInput.length();
